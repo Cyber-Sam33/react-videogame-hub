@@ -14,13 +14,19 @@ My Video Game Hub app has been created using React. Users can search for new, ol
 - Users can search for games by genre
 
 <p align="center">
-  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/dark-mode-genre.mp4">
+  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/Dark%20Mode.png">
+</p>
+<p align="center">
+  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/search%20by%20genre.png">
 </p>
 
 - Search by entering text queries into the search-bar and/or by using the drop-down menu lists.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/Search%20by%20Game%20Title.png">
+</p>
+<p align="center">
+  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/search%20by%20platform.png">
 </p>
 
 ## Deployment
@@ -46,3 +52,4 @@ Below are a list of dependencies and you will run 'npm i' to install all the dep
 - [Chakra UI](https://chakra-ui.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React-icons](https://react-icons.github.io/react-icons/)
+- [Axios](https://axios-http.com/docs/intro)
