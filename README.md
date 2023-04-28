@@ -52,7 +52,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser u
 
 ## Dependencies
 
-Below are a list of dependencies and you will run 'npm i' to install all the dependencies required.
+Below are a list of dependencies and you will need to run 'npm i' to install all the dependencies required.
 
 - [Chakra UI](https://chakra-ui.com/)
 - [Node.js](https://nodejs.org/en/)
