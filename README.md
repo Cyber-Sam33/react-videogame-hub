@@ -29,6 +29,11 @@ My Video Game Hub app has been created using React. Users can search for new, ol
   <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/search%20by%20platform.png">
 </p>
 
+- Mobile-First view
+<p align="center">
+  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/Mobile-first-view.png">
+</p>
+
 ## Deployment
 
 - Click here to visit a woking deployment of my site: <a href="https://react-videogame-hub.vercel.app/">Video Game-Hub</a>: https://react-videogame-hub.vercel.app/
