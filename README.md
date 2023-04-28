@@ -14,7 +14,7 @@ My Video Game Hub app has been created using React. Users can search for new, ol
 - Users can search for games by genre
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Cyber-Sam33/react-videogame-hub/blob/main/docs/dark-mode-genre.mp4">
 </p>
 
 - Search by entering text queries into the search-bar and/or by using the drop-down menu lists.
@@ -25,7 +25,7 @@ My Video Game Hub app has been created using React. Users can search for new, ol
 
 ## Deployment
 
-- Click here to visit a woking deployment of my site<a href="https://react-videogame-hub.vercel.app/">Video Game-Hub</a>: https://react-videogame-hub.vercel.app/
+- Click here to visit a woking deployment of my site: <a href="https://react-videogame-hub.vercel.app/">Video Game-Hub</a>: https://react-videogame-hub.vercel.app/
 
 ## Getting Started
 
