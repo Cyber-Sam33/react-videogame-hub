@@ -6,7 +6,9 @@
 
 ## Overview
 
-My Video Game Hub app has been created using React. Users can search for new, old and retro video games by genre, platform and title. Games are rated and displayed for the user to explore with emojis linked to overall user-ratings. A dark mode feature is available to the user at the click of a button.
+This Video Game Hub web application has been created using React, Chakra UI, RAWG API and a mobile-first design approach.
+
+Users can search for new, old and retro video games by using the search bar or drop-down menus. Games are rated and displayed for the user to explore by title, genre and emojis are displayed linked to overall user-ratings. Also, dark mode feature is available to the user at the click of a button.
 
 ## Landing Page
 
