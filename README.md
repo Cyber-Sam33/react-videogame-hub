@@ -6,9 +6,11 @@
 
 ## Overview
 
-This Video Game Hub web application has been created using React, Chakra UI, RAWG API and a mobile-first design approach.
+This Video Game-Hub web application has been created using React, Chakra UI, RAWG API and Vite build tool.
 
-Users can search for new, old and retro video games by using the search bar and drop-down menus or by genre. Games are rated and displayed for the user to explore and the emojis displayed are linked to overall user-ratings. Also, dark mode feature is available to the user at the click of a button.
+Users can search for new, old and retro video games by using the search bar and drop-down menus or by genre. Games are rated and displayed for the user to explore and the emojis displayed are linked to overall user-ratings.
+
+Also, a dark mode feature is available to the user and this app has been created using a mobile-first design approach.
 
 ## Landing Page
 
@@ -44,7 +46,7 @@ Users can search for new, old and retro video games by using the search bar and 
 
 The API data for this app is fetched from RAWG and has been designed using the mobile-first approach. You will need to setup a RAWG account to get access to the RAWG video game API database to make your Axios requests: https://rawg.io/apidocs
 
-Create a new repository using this repository as a template. Clone your repository onto your local device. Install dependencies using the npm install command. The app will be served at your local host.
+Create a new repository using this repository as a template. Clone your repository onto your local device. Install dependencies using the npm install command. The app will be served at your local host and has been built with the Vite build-tool.
 
 Install all dependencies using the `npm install` command.
 In the project directory, you can run: `npm run dev`
@@ -60,3 +62,4 @@ Below are a list of dependencies and you will need to run 'npm i' to install all
 - [Node.js](https://nodejs.org/en/)
 - [React-icons](https://react-icons.github.io/react-icons/)
 - [Axios](https://axios-http.com/docs/intro)
+- [Vite](https://vitejs.dev/guide/)
