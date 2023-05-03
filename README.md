@@ -1,12 +1,12 @@
 ### Video-Game Hub
 
 <p align="center">
-  <h1>VIDEO-GAME HUB</h1>
+  <h1>VIDEO GAME HUB</h1>
 </p>
 
 ## Overview
 
-This Video Game-Hub web application has been created using React, Chakra UI, RAWG API and Vite build tool.
+This Video Game Hub web application has been created using React, Chakra UI, RAWG API and Vite build tool.
 
 Users can search for new, old and retro video games by using the search bar and drop-down menus or by genre. Games are rated and displayed for the user to explore and the emojis displayed are linked to overall user-ratings.
 
@@ -63,3 +63,4 @@ Below are a list of dependencies and you will need to run 'npm i' to install all
 - [React-icons](https://react-icons.github.io/react-icons/)
 - [Axios](https://axios-http.com/docs/intro)
 - [Vite](https://vitejs.dev/guide/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
